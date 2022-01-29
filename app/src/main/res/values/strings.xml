@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="username">Email Address</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in!</string>
+    <string name="sign_up">Sign up!</string>
+    <string name="login">Login!</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="mood">Mood</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="add_more">Add more</string>
+    <string name="submit">Submit!</string>
+    <string name="sign_out">Sign out</string>
+</resources>
