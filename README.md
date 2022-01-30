@@ -1,4 +1,4 @@
-# Thoughts-Diary-App
+# Thoughts Diary App
 Mood &amp; thoughts tracker Android app for CS 4261
 
 ## Set up:
