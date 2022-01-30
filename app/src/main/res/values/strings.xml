@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My App</string>
+    <string name="app_name">Thoughts Diary</string>
     <string name="username">Email Address</string>
     <string name="password">Password</string>
     <string name="log_in">Log in!</string>
